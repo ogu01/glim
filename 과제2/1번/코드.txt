@@ -1,0 +1,12 @@
+#include string
+#include vector
+
+using namespace std;
+
+int solution(int n, int k) {
+    int a;
+    a = n10;
+    int answer = 0;
+    answer = n12000+k2000-a2000;
+    return answer;
+}
